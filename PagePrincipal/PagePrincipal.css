@@ -22,7 +22,7 @@ body {
 } 
 
 .cabecalho-imagem {
-    height:72px;
+    height: 100px;
        
 }
 
@@ -35,7 +35,7 @@ body {
     font-family: 'Sarala' sans-serif;
     color: #fff2e7;
     font-weight: 400;
-    font-size: 18px;
+    font-size: 20px;
    
 }
 
@@ -116,10 +116,31 @@ body {
 }
 
 .rodape {
-    padding: 32px;
+    padding: 24px;
     border-top: 0.4px solid #FFF2E7;
+    display: flex;
+    justify-content: flex-end; /* Alinha os ícones à direita */
+    align-items: center;
+    width: 100%;
 }
 
-.fa-regular {
-   
+.rodape-menu {
+    display: flex;
+    gap: 16px; /* Espaçamento entre os ícones */
 }
+
+.rodape-menu a {
+    color: white; /* Ajuste a cor conforme o seu design */
+    font-size: 24px; /* Tamanho dos ícones */
+    text-decoration: none;
+}
+
+.rodape-menu a:hover {
+    color: #ecd6c4;/* Muda a cor ao passar o mouse */
+}
+
+
+
+
+
+
