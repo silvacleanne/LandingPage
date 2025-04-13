@@ -140,7 +140,7 @@ strong{
     text-align: justify;
 }
 
-:is(.tereira-secao, .quarta-secao){
+:is(.terceira-secao, .quarta-secao){
     background-color: var(--dark1);
     display: flex;
     flex-direction: column;
@@ -149,7 +149,7 @@ strong{
     gap: 2rem;
 }
 
-.tereira-secao ul{
+.terceira-secao ul{
     list-style: none;
     display: flex;/*um do lado do outro*/
     justify-content: center;
@@ -158,13 +158,13 @@ strong{
     flex-wrap: wrap;
 }
 
-.tereira-secao ul li{
+.terceira-secao ul li{
     color: var(--dark0);
     letter-spacing: 2px;
     font-weight: bold;
 }
 
-.tereira-secao ul li:hover{
+.terceira-secao ul li:hover{
     color: var(--dark2);
     transition: .4s;
     cursor: default;
