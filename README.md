@@ -26,5 +26,6 @@ _(Atualize com o link real assim que o GitHub Pages estiver ativo)_
 - [GitHub](https://github.com/silvacleanne)
 
 ---
+![GitHub Snake](https://github.com/silvacleanne/silvacleanne/blob/output/github-contribution-grid-snake.svg)
 
 Feito com 💙 por Cleanne Silva
