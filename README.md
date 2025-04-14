@@ -25,7 +25,10 @@ _(Atualize com o link real assim que o GitHub Pages estiver ativo)_
 - [LinkedIn](https://www.linkedin.com/in/cleanne-silva-74a3121b3/)
 - [GitHub](https://github.com/silvacleanne)
 
----
+##
+
+### GitHub Contributions Snake
+
 ![GitHub Snake](https://github.com/silvacleanne/silvacleanne/blob/output/github-contribution-grid-snake.svg)
 
 Feito com 💙 por Cleanne Silva
