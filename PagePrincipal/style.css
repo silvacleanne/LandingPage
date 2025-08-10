@@ -118,6 +118,28 @@ strong{
     font-size: 20px;
 }
 
+a.Download {
+    background: var(--dark4);
+    width: 180px;
+    height: 60px;
+    border: none;
+    box-shadow: 4px 5px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    font-family: 'Sarala', sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    display: inline-flex; /* mantém alinhamento do texto */
+    align-items: center;  /* centraliza verticalmente */
+    justify-content: center; /* centraliza horizontalmente */
+    text-decoration: none; /* remove sublinhado do link */
+    cursor: pointer;
+}
+
+a.Download strong {
+    color: var(--dark1);
+}
+
+
 .imagem-dev{
     max-width: 450px;
     padding: 1rem;
