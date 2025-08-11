@@ -9,8 +9,7 @@ Landing page desenvolvida com HTML, CSS e JavaScript para representar meu portf�
 
 ## 🌐 Acesse online
 
-📍 [https://SEUNOME.github.io/NOMEDOREPO/](https://SEUNOME.github.io/NOMEDOREPO/)  
-_(Atualize com o link real assim que o GitHub Pages estiver ativo)_
+📍 http://landing-page-cleanne.s3-website-sa-east-1.amazonaws.com
 
 ## 🛠️ Tecnologias usadas
 
